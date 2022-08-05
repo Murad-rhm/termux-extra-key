@@ -7,5 +7,17 @@ apt update
 apt upgrade -y
 apt install python -y
 apt install git -y
-git clone 
+git clone https://github.com/Murad-rhm/termux-extra-key
+cd termux-extra-key
+python key.py
 ````
+# Running command
+````
+python key.py
+````
+Or
+````
+python3 key.py
+````
+
+<h1> <p> <i> <br> happy learning 💯 </br> </i> </p> </h1>
